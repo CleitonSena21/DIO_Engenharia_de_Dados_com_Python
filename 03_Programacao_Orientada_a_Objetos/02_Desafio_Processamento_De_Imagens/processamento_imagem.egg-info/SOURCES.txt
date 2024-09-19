@@ -1,0 +1,14 @@
+README.md
+setup.py
+pacote-processamento-imagem/__init__.py
+pacote-processamento-imagem/processamento/__init__.py
+pacote-processamento-imagem/processamento/combinar.py
+pacote-processamento-imagem/processamento/transformar.py
+pacote-processamento-imagem/utilidades/__init__.py
+pacote-processamento-imagem/utilidades/io.py
+pacote-processamento-imagem/utilidades/plot.py
+pacote_processamento_imagem.egg-info/PKG-INFO
+pacote_processamento_imagem.egg-info/SOURCES.txt
+pacote_processamento_imagem.egg-info/dependency_links.txt
+pacote_processamento_imagem.egg-info/requires.txt
+pacote_processamento_imagem.egg-info/top_level.txt

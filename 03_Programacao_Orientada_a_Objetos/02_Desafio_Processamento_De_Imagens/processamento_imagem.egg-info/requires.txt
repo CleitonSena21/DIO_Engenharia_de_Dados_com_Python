@@ -1,0 +1,5 @@
+matplotlib>=3.2.2 or atual
+numpy>=1.19.3 or atual
+scikit-image>=0.16.1 or atual
+
+
