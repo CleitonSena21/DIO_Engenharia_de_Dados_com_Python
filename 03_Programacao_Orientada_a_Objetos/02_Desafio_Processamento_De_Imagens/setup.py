@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_packages  # type: ignore
 
 with open("README.md", "r") as f:
     page_description = f.read()
@@ -19,4 +19,3 @@ setup(
     python_requires='>=3.5'
 )
 
-##
